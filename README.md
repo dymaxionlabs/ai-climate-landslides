@@ -1,6 +1,7 @@
 # Susceptible landslide areas detection
 
-##Description
+## Description
+
 The Susceptible landslide area model was developed to obtain an information layer that contributes to AI Climate Platform, a land management instrument and decision-making tool geared to Global South secondary/tertiary cities that lack local data and whose objective is to cut the time and expense involved in climate hazard mapping, assessment, and prediction, freeing up city resources for community resilience (adaptation) building.
 
 As inputs, the model uses: (I) a raster dataset from optical satellites that represent conditioning factors (topographic and environmental) that can facilitate landslide occurrence, (II)georeferenced information (ground truth) of landslides past events.
